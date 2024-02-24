@@ -8,6 +8,7 @@ var searchData=
   ['base_5',['Base',['../classBase.html',1,'Base'],['../classBase.html#a5ffe0568374d8b9b4c4ec32953fd6453',1,'Base::Base()']]],
   ['base_2ecpp_6',['base.cpp',['../base_8cpp.html',1,'']]],
   ['basic_20rules_7',['basic rules',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md25',1,'']]],
-  ['binary_20operator_8',['binary operator',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md33',1,'']]],
-  ['binary_20operator_9',['Binary Operator (+, -, ==, !=, &lt;,&gt;, ...)',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md30',1,'']]]
+  ['beginner_20programming_8',['C++ Beginner Programming',['../index.html',1,'']]],
+  ['binary_20operator_9',['binary operator',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md33',1,'']]],
+  ['binary_20operator_10',['Binary Operator (+, -, ==, !=, &lt;,&gt;, ...)',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md30',1,'']]]
 ];

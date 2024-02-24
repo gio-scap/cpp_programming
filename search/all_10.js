@@ -16,6 +16,5 @@ var searchData=
   ['static_2ecpp_13',['Static.cpp',['../Static_8cpp.html',1,'']]],
   ['static_2eh_14',['Static.h',['../Static_8h.html',1,'']]],
   ['strem_20operators_20overloading_15',['Strem Operators overloading',['../md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md34',1,'']]],
-  ['stupid_20library_16',['Stupid Library',['../index.html',1,'']]],
-  ['syntax_17',['syntax',['../c04.html#autotoc_md19',1,'']]]
+  ['syntax_16',['syntax',['../c04.html#autotoc_md19',1,'']]]
 ];

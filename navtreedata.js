@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "c++ Beginning", "index.html", [
-    [ "Stupid Library", "index.html", null ],
+    [ "C++ Beginner Programming", "index.html", null ],
     [ "Inheritance", "md__2github_2workspace_2Inheritance_2Inheritance.html", "md__2github_2workspace_2Inheritance_2Inheritance" ],
     [ "Object Oriented programming", "md__2github_2workspace_2OOP_2OOP.html", "md__2github_2workspace_2OOP_2OOP" ],
     [ "Operator Overloading", "md__2github_2workspace_2Operator__overloading_2readme.html", [

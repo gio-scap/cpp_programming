@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['static_20class_20member_0',['static class member',['../c07.html',1,'md__2github_2workspace_2OOP_2OOP']]],
-  ['stupid_20library_1',['Stupid Library',['../index.html',1,'']]]
+  ['qualifier_0',['const qualifier',['../c06.html',1,'md__2github_2workspace_2OOP_2OOP']]]
 ];
