@@ -68,6 +68,7 @@ INPUT                  = ../
 
 EXCLUDE_PATTERNS = */build/*
 
+EXCLUDE = ../ReadMe.md
 
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.c \
@@ -85,4 +86,4 @@ FILE_PATTERNS          = *.c \
 IMAGE_PATH           = img/
 
 ## MAIN page 
-USE_MDFILE_AS_MAINPAGE = README.md
+USE_MDFILE_AS_MAINPAGE = MainPage.md
