@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "c++ Beginning", "index.html", [
-    [ "Stupid Library", "md_pages_2MainPage.html", null ],
+    [ "Stupid Library", "index.html", null ],
     [ "Inheritance", "md__2github_2workspace_2Inheritance_2Inheritance.html", "md__2github_2workspace_2Inheritance_2Inheritance" ],
     [ "Object Oriented programming", "md__2github_2workspace_2OOP_2OOP.html", "md__2github_2workspace_2OOP_2OOP" ],
     [ "Operator Overloading", "md__2github_2workspace_2Operator__overloading_2readme.html", [
@@ -46,7 +46,6 @@ var NAVTREE =
         [ "prototype >>", "md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md36", null ]
       ] ]
     ] ],
-    [ "ReadMe", "md__2github_2workspace_2ReadMe.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -71,7 +70,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "06__const__qualifier__in__class__method_2Myclass_8cpp.html",
-"md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md27"
+"md__2github_2workspace_2Operator__overloading_2readme.html#autotoc_md26"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
