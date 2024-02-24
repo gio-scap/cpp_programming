@@ -1,0 +1,6 @@
+<map id="Base" name="Base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,5,64,31"/>
+<area shape="rect" id="Node000002" href="$classDerived.html" title=" " alt="" coords="5,79,71,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,46,34,78,28,79,27,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="49,46,48,79,42,78,44,46"/>
+</map>
