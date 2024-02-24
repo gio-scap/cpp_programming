@@ -1,0 +1,84 @@
+html {
+    /* Light Theme */
+    --primary-color: #3498db;
+    /* Light blue */
+    --primary-dark-color: #2980b9;
+    /* Dark blue */
+    --primary-light-color: #ecf0f1;
+    /* Light gray */
+    --primary-lighter-color: #2ecc71;
+    /* Green */
+    --primary-lightest-color: #f1c40f;
+    /* Yellow */
+
+    --page-background-color: #ffffff;
+    /* White */
+    --page-foreground-color: #333333;
+    /* Dark gray */
+    --page-secondary-foreground-color: #e74c3c;
+    /* Red */
+
+    --border-radius-large: 22px;
+    --border-radius-small: 9px;
+    --border-radius-medium: 14px;
+    --spacing-small: 8px;
+    --spacing-medium: 14px;
+    --spacing-large: 19px;
+
+    --top-height: 125px;
+
+    --side-nav-background: #2c3e50;
+    /* Dark gray */
+    --side-nav-foreground: #ffffff;
+    /* White */
+    --header-foreground: var(--side-nav-foreground);
+    --searchbar-background: var(--side-nav-background);
+    --searchbar-border-radius: var(--border-radius-medium);
+    --header-background: var(--side-nav-background);
+    --header-foreground: var(--side-nav-foreground);
+
+    --toc-background: #bdc3c7;
+    /* Silver */
+    --toc-foreground: var(--page-foreground-color);
+
+    --github-button-bakcground: #f39c12;
+    /* Orange */
+    --github-button-textc: #1b1919;
+    /* Red */
+}
+
+html.dark-mode {
+    /* Dark Theme */
+    color-scheme: dark;
+    --primary-color: #8e44ad;
+    /* Purple */
+    --primary-dark-color: #6c3483;
+    /* Dark Purple */
+    --primary-light-color: #34495e;
+    /* Dark blue gray */
+    --primary-lighter-color: #27ae60;
+    /* Green */
+    --primary-lightest-color: #f39c12;
+    /* Orange */
+
+    --page-background-color: #222528;
+    /* Dark gray */
+    --page-foreground-color: #ecf0f1;
+    /* Light gray */
+    --page-secondary-foreground-color: #e74c3c;
+    /* Red */
+    --separator-color: #3d3f41;
+    /* Silver */
+    --side-nav-background: #34495e;
+    /* Dark blue gray */
+    --side-nav-foreground: #ffffff;
+    /* White */
+    --toc-background: #2c3e50;
+    /* Dark gray */
+    --searchbar-background: var(--page-background-color);
+    --github-button-bakcground: #f39c12;
+    /* Orange */
+    --github-button-textc: #e74c3c;
+    /* Red */
+    /* Orange red */
+}
